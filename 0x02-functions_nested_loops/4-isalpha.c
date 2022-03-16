@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  *_isalpha - check if c is in lower or upper case and return 1
- *@c: print this
+ *@c: The int to print
  *Return: always return 0
  */
 int _isalpha(int c)
