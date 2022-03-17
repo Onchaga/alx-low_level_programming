@@ -14,7 +14,7 @@ for (m = 0; m <= 9; m++)
 for (n = 0; n <= 9; n++)
 {
 p = m * n;
-if ((p / 10) == 0);
+if ((p / 10) == 0)
 {
 if (n == 0)
 {
@@ -33,8 +33,8 @@ _putchar (' ');
 }
 else
 {
-_putchar((c / 10) + '0');
-_putchar((c % 10) + '0');
+_putchar((p / 10) + '0');
+_putchar((p % 10) + '0');
 if (n < 9)
 {
 _putchar(',');
