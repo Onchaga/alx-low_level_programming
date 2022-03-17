@@ -6,7 +6,7 @@
  *@n: the int to print
  *Return: return 0 always
  */
-int _abs(int)
+int _abs(int n)
 {
 if (n < 0)
 {
