@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *main - print_sign  return 0 or 1 depending on the sign
+ *print_sign - return 0 or 1 depending on the sign
  *Return:always return 0
  *@n: the int to be printed
  */
