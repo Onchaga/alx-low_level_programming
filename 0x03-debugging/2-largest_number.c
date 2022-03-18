@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *largest_number - returns the largest 3 numbers
  *@a: first integer
@@ -21,6 +22,5 @@ else
 {
 largest = c;
 }
-
 return (largest);
 }
