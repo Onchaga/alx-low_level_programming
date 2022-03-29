@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  *_strncpy - copies a string
- *@dest: a pointer of a character that will be changed
- *@src: a pointer of a character that will be changed
+ *@dest: a pointer to a character that will be changed
+ *@src: a pointer to a character that will be changed
  *n: value
  *Return: dest
  */
